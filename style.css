@@ -1,0 +1,53 @@
+* {
+    margin:0; 
+    padding:0;
+}
+
+body{
+   
+    
+    background:gray;
+
+}
+
+.contenedor_principal {
+
+    background:gray;
+    border: 1px dashed red;
+ 
+   
+    
+}
+.header {
+    background: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.post {
+    width: 600px;
+    margin: auto;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.header_info{
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+   
+}
+
+.post_info{
+    background: white;
+    padding: 10px;
+  
+}
+
